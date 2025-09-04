@@ -1,0 +1,31 @@
+*{
+    margin: 0;/* espaçamento externo */
+    padding: 0;/* espaçamento interno */
+
+}
+
+h1 {
+   color: red; /* Adiciona cor na letra */
+   background-color: blue;/* adiciona cor do fundp */
+   font-size: 50px;/* Tamanho da fonta */
+   padding: 50px;
+   margin: 50px;
+   text-transform: uppercase; /* Letra maiuscula */
+   font-weight: bold; /* Tamanho da fonte */
+   font-family: 'Courier New', Courier, monospace;/* Estilo da fonte */
+   letter-spacing: 5px;/* Espaçamento das letras */
+   text-align:right;/* texto vai pra direita */
+   text-align:left ;/* texto vai para esquerda */
+   text-align: center;/* texto fica no centro */
+   border-radius: 10px;/* arredonda borda */
+   border:solid black 5px;/* borda de dentro */
+   box-shadow: rgb(255, 12, 12) 10px 10px 20px;/* sombra em volta do quadrado */
+   
+
+}
+
+p {
+    text-align: justify;/* Deixa o texto centralizado e responsivo */
+    
+}
+
